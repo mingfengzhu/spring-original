@@ -12,5 +12,5 @@ public class HelloApplicationTest {
 		HelloService bean = context.getBean(HelloService.class);
 		System.out.println(bean);
 	}
-
+  
 }
