@@ -1,4 +1,4 @@
-package cn.itech.spring.core.bean;
+package cn.itech.spring.core.bean.init;
 
 import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.context.annotation.Bean;

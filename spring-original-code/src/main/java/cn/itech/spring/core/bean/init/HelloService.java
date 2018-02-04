@@ -1,4 +1,4 @@
-package cn.itech.spring.core.bean;
+package cn.itech.spring.core.bean.init;
 
 public interface HelloService {
 
